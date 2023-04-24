@@ -29,10 +29,10 @@ body {
 }
 
 .orange {
-  background-color: #F4913E;
+  background-color: #f4913e;
 }
 
-#last-row .two-cells{
+#last-row .two-cells {
   flex-basis: 50.4%;
 }
 
