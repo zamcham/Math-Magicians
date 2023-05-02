@@ -40,7 +40,7 @@ function Quote() {
     <>
       {data.length > 0
       && (
-      <div className="quoteContainer">
+      <div className="container">
         <h3>{data[0].quote}</h3>
         <h4>{data[0].author}</h4>
       </div>
