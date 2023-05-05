@@ -55,9 +55,9 @@ Read a random math-related quote.
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo Coming Soon <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link Coming Soon](#)
+- [Click here for a live demo](https://math-magicians-awt3.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
